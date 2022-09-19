@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dkiese
-- 👀 I’m interested in Python development
 - 📫 How to reach me dan.kiese@gmail.com
 
 <!---
